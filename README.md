@@ -153,3 +153,8 @@ This project showcases:
 - Deployment using Docker Compose for reproducibility and testing
 
 Each microservice is independently testable and can scale horizontally for improved reliability and performance.
+
+## Contact
+For inquiries or feedback, feel free to reach out via the website's contact section.
+
+[Live Website](www.itsrazo.com) | [GitHub Repo](https://github.com/razoDegree/Library-Cloud)
